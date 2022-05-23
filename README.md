@@ -124,7 +124,7 @@ endmodule
 
 
 ### TRUTH TABLE 
-###UP COUNTER
+### UP COUNTER
 
 ![OUTPUT](https://github.com/VINUTHNA-2004/Exp-7-Synchornous-counters-/blob/main/up.png?raw=true)
 
