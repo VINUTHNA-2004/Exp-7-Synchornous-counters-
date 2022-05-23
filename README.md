@@ -89,7 +89,9 @@ endmodule
 ```
 
 ### OUTPUT
-### RTL LOGIC UP COUNTER AND DOWN COUNTER  
+### RTL LOGIC UP COUNTER AND DOWN COUNTER 
+### UP counter
+![OUTPUT](https://github.com/VINUTHNA-2004/Exp-7-Synchornous-counters-/blob/main/UC.png?raw=true)
 
 
 
