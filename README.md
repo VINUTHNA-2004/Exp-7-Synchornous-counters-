@@ -93,16 +93,16 @@ endmodule
 ### UP counter
 ![OUTPUT](https://github.com/VINUTHNA-2004/Exp-7-Synchornous-counters-/blob/main/UC.png?raw=true)
 
-
-
-
-
-
-
+### DOWN counter
+![OUTPUT](https://github.com/VINUTHNA-2004/Exp-7-Synchornous-counters-/blob/main/dc.png?raw=true)
 
 
 ### TIMING DIGRAMS FOR COUNTER  
+### UP counter
+![OUTPUT](https://github.com/VINUTHNA-2004/Exp-7-Synchornous-counters-/blob/main/UC1.png?raw=true)
 
+## DOWN Counter
+![OUTPUT](https://github.com/VINUTHNA-2004/Exp-7-Synchornous-counters-/blob/main/dc1.png?raw=true)
 
 
 
