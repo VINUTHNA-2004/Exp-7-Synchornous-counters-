@@ -46,10 +46,10 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 4-bit Count Down Counter
 ### Procedure
-Step 1:
+ Step 1:
 Create a new file in quartus II.
 
-Step 2:
+ Step 2:
 Module Declaration. Module should have the file name.
 
 Step 3:
@@ -124,11 +124,9 @@ endmodule
 
 
 ### TRUTH TABLE 
-###UP COUNTER
-![OUTPUT](https://github.com/VINUTHNA-2004/Exp-7-Synchornous-counters-/blob/main/up.png?raw=true)
+###UP COUNTER![OUTPUT](https://github.com/VINUTHNA-2004/Exp-7-Synchornous-counters-/blob/main/up.png?raw=true)
 
-### DOWN COUNTER
-![OUTPUT](https://github.com/VINUTHNA-2004/Exp-7-Synchornous-counters-/blob/main/down.png?raw=true)
+### DOWN COUNTER![OUTPUT](https://github.com/VINUTHNA-2004/Exp-7-Synchornous-counters-/blob/main/down.png?raw=true)
 
 
 
